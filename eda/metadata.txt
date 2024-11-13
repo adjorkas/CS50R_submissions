@@ -1,0 +1,78 @@
+mother/father:
+mother = 1
+father = 2
+
+child sex:
+male = 0
+female = 1
+
+ASD symptoms:
+1 = low symptoms
+2 = medium symptoms
+3 = high symptoms
+
+language competences:
+0 = no language
+1 = single words
+2 = short sentences
+3 = complex sentences
+
+cognitive functioning:
+1 = low
+2 = medium
+3 = high
+
+communication:
+1 = improved
+2 = same
+3 = worsened
+
+emotional regulation:
+1 = improved
+2 = same
+3 = worsened
+
+social interaction:
+1 = improved
+2 = same
+3 = worsened
+
+stereotypes:
+1 = improved
+2 = same
+3 = worsened
+
+behavioral problems:
+1 = improved
+2 = same
+3 = worsened
+
+restricted interests:
+1 = improved
+2 = same
+3 = worsened
+
+autonomies:
+1 = improved
+2 = same
+3 = worsened
+
+tv:
+1 = never
+2 = sometimes
+3 = a lot of time
+
+video-games:
+1 = never
+2 = sometimes
+3 = a lot of time
+
+play with friends online:
+1 = never
+2 = sometimes
+3 = a lot of time
+
+social networks:
+1 = never
+2 = sometimes
+3 = a lot of time
